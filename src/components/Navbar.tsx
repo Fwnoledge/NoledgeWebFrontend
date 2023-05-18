@@ -12,6 +12,7 @@ const navigation = [
     {name: 'Home', href: '/'},
     {name: 'Search', href: '/search'},
     {name: 'Profile', href: '/profile'},
+    {name: 'Private Route', href: '/private'},
 ]
 
 export default function Example() {
